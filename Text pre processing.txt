@@ -1,0 +1,29 @@
+Data set
+
+-> 
+
+Text Pre processing - 1 
+1. Tokensition 
+2. Lower the case 
+3. Regular Expression  
+
+-> 
+
+Text Preprocessing - 2 
+1.Stemming 
+2.Lemmatisation 
+3.Stop words 
+
+-> 
+
+Vectors (numerical representation of the words)
+1. one Hot Encoding
+2. Bag of words 
+3. TF - IDF 
+4. Word2Vec
+5. AvgWord2vec
+
+
+->
+
+ML Algorithms 
